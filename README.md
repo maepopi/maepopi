@@ -75,8 +75,8 @@ Custom ComfyUI nodes bringing HuggingFace Diffusers pipelines (Text2Img, Img2Img
 ### [SegviGen Web App](https://github.com/maepopi/SegviGen-app)
 Full-stack web application (FastAPI + React + TypeScript) for 3D part segmentation. Wraps SegviGen research code with interactive 3D viewers, job-based API, and VRAM management.
 
-### [LLM Trainer](https://github.com/maepopi/LLM_Trainer)
-Gradio app for LoRA fine-tuning of HuggingFace-compatible language models. Model-agnostic, JSONL dataset support.
+### [TRELLIS (RTX 5090 Fork)](https://github.com/maepopi/TRELLIS)
+Fork of Microsoft's TRELLIS with a comprehensive RTX 5090 installation guide — building CUDA extensions, Xformers, and Kaolin from source for sm_90 compute capability.
 
 ---
 
